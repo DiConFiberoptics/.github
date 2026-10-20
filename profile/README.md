@@ -17,6 +17,17 @@
   <a href="https://www.diconfiberoptics.com/contact.php"><strong>Contact us</strong></a>
 </p>
 
+<p align="center">
+  <a href="https://gfi-apps.diconcloud.com/gfi-corporate-profile/">
+    <img src="assets/dicon-gfi-brand.gif" width="800" alt="GFI and DiCon brand animation: light unfolds into a spectrum, revealing Global Fiberoptics and the original company logos. Select to open the complete corporate profile.">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gfi-apps.diconcloud.com/gfi-corporate-profile/"><strong>▶ Watch the full corporate profile · 播放完整公司介紹</strong></a><br>
+  <sub>Silent animation preview · 無聲動畫預覽｜Full experience includes sound and fullscreen playback · 完整版含配樂與全螢幕播放</sub>
+</p>
+
 ---
 
 ## Photonics, from components to systems
