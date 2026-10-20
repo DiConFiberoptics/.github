@@ -9,9 +9,10 @@ The public organization introduction is maintained in [profile/README.md](profil
 
 ## Brand animation
 
-[profile/assets/dicon-gfi-brand.gif](profile/assets/dicon-gfi-brand.gif) is a silent, looping excerpt of the existing [GFI / DiCon corporate profile](https://gfi-apps.diconcloud.com/gfi-corporate-profile/), version 1.4.0. It retains the original animation and logo artwork; no AI redraw was used.
+[profile/assets/dicon-gfi-brand.gif](profile/assets/dicon-gfi-brand.gif) combines the original DiCon logo artwork with motion from the existing [GFI / DiCon corporate profile](https://gfi-apps.diconcloud.com/gfi-corporate-profile/), version 1.4.0. The silent loop emphasizes DiCon Fiberoptics with large opening and closing brand cards; no AI redraw was used.
 
-- Source scenes: opening 00:02–00:07.8, followed by closing 01:58.4–02:04.
-- Output: 11.4 seconds, 800 × 450 pixels, 10 fps, 96-color GIF, approximately 3.6 MiB.
-- Exported with the source project's film renderer, then trimmed, concatenated and palette-encoded using FFmpeg.
+- Sequence: DiCon Fiberoptics brand card (5 seconds), original Global Fiberoptics opening 00:03–00:07.5 (4.5 seconds), then DiCon Fiberoptics brand card (5 seconds).
+- Output: 14.5 seconds, 800 × 450 pixels, 10 fps, 96-color GIF, approximately 2.3 MiB.
+- Original white DiCon logo artwork is preserved at its native aspect ratio. Brand cards use the opening's light motion over a navy background, the full DiCon Fiberoptics name, the existing company tagline and official website.
+- Exported with the source project's film renderer, then composited, concatenated and palette-encoded using FFmpeg.
 - Keep the image and its caption linked to the full corporate profile. Do not embed scripts or the full player in the organization README.
