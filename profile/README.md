@@ -18,14 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gfi-apps.diconcloud.com/gfi-corporate-profile/">
-    <img src="assets/dicon-gfi-brand.gif" width="800" alt="DiCon Fiberoptics brand animation: a large original DiCon logo and full company name lead and close the preview, with a short Global Fiberoptics spectrum sequence between them. Select to open the complete corporate profile.">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gfi-apps.diconcloud.com/gfi-corporate-profile/"><strong>▶ Watch the full corporate profile · 播放完整公司介紹</strong></a><br>
-  <sub>Silent animation preview · 無聲動畫預覽｜Full experience includes sound and fullscreen playback · 完整版含配樂與全螢幕播放</sub>
+  <img src="assets/dicon-gfi-brand.gif" width="800" alt="DiCon Fiberoptics brand animation: a large original DiCon logo and full company name lead and close the preview, with a short Global Fiberoptics spectrum sequence between them.">
 </p>
 
 ---
